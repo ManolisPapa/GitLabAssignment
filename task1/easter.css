@@ -1,0 +1,32 @@
+body {
+    background-color: #f8e8ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.egg {
+    display: inline-block;
+    width: 100px;
+    height: 130px;
+    background: linear-gradient(45deg, #ff9ecd, #ffcce6);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+.egg:hover {
+    transform: scale(1.1);
+}
+#secretBunny {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 50px;
+}
+.hidden-basket {
+    color: transparent;
+    user-select: none;
+}
+.hidden-basket:hover {
+    color: #ff6b6b;
+}
