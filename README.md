@@ -10,7 +10,7 @@ Create a directory somewhere in your computer and initialize a git repository in
 Download the files in the task1 folder, move them to your directory and make a commit.  
 
 Let's assume now, for the sake of this exercise, that this is a little game your boss asked you to design.  
-You just got a message saying that the eggs should be a dark red color to go with Orthodox traditions.
+You just got a message saying that the eggs should be a dark red color to go with Orthodox traditions.  
 Change the eggs color and commit your change.  
 
 That's not it, your boss decided that the rainbow theme is not very nice and  
@@ -46,7 +46,7 @@ The boss doesn't like all of the changes and thinks they're too much, so you're 
 There are two git commands for this, so pick whichever you prefer.
 
 To complete this task you should document your branch logs and (optionally) your command history 
-You can do this by running the following commands:
+You can do this by running the following commands:  
     git log [branch_name] > branch_name-log.txt (do this for every branch after first doing git checkout branch_name)  
     doskey /history > history.txt (this returns all the commands you used that are in memory. You can remove any commands you think contain unimportant or sensitive information)  
 
