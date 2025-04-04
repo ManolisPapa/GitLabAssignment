@@ -15,7 +15,7 @@ Change the eggs color and commit your change.
 
 That's not it, your boss decided that the rainbow theme is not very nice and  
 also believes you should change the keybinds for the 3rd easter egg.  
-This is an important change to your project, so it should be performed in a different branch.
+This is an important change to your project, so it should be performed in a different branch.  
 Create a branch named thirdEasterEgg and start making your changes there.  
 Firstly the rainbow theme should be top to bottom gradient without the line splits  
 and secondly considering your boss is an avid GTA fan,  
@@ -35,7 +35,8 @@ Make a choice, pick which gradient you like best and solve the conflicts.
 
 Lastly, your boss, being a very indecisive person, asks you to make some changes.  
 Knowing how indecisive and fickle your boss can be,  
-you create a new branch 'changes' from 'main' in order to commit the following: (Commit after every change and message accordingly, this is important)  
+you create a new branch 'changes' from 'main' in order to commit the following:  
+(Commit after every change and message accordingly, this is important)  
 1. Make the some of the eggs dark green.
 2. Change the background colour to yellow.
 3. Change the rainbow gradient into a blue-green gradient.
