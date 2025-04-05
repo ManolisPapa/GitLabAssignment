@@ -37,7 +37,7 @@ Lastly, your boss, being a very indecisive person, asks you to make some changes
 Knowing how indecisive and fickle your boss can be,  
 you create a new branch 'changes' from 'main' in order to commit the following:  
 (Commit after every change and message accordingly, this is important)  
-1. Make the some of the eggs dark green.
+1. Make some of the eggs dark green.
 2. Change the background colour to yellow.
 3. Change the rainbow gradient into a blue-green gradient.
 4. Make the eggs 20px wider.
@@ -52,4 +52,26 @@ You can do this by running the following commands:
     doskey /history > history.txt (this returns all the commands you used that are in memory. You can remove any commands you think contain unimportant or sensitive information)  
 
 ## Task 2:
+For this next task, you'll work in pairs so text one of your friends and partner up.  
+
+From now on I will refer to you as Partner 1 and Partner 2, so make sure you pick your roles and stick to them.
+
+Partner 1 should create a Github repository (named lab-assignment-task-2) and add the files from the task2 directory of this repo.  
+Partner 2 should clone the repository and implement the features labeled #Partner2. Try to commit frequently.  
+After Partner 2 has completed their tasks they should push their changes to the remote repo and inform Partner 1.  
+Partner 1 should pull these changes locally and implement the features labeled #Partner1. Try to commit frequently.  
+You understand that this can be an on-going, repeating process but for the purposes of this assignment, we'll leave it here.
+
+To complete this task, you need to invite me (ManolisPapa) to your repository.  
+
+## Task 3:
+This one should be fairly simple but a bit time consuming. After you complete the above tasks, you need to fork this repository and add the following:  
+A directory named 'Github username-Identification number' (e.g. ManolisPapa-8220116).
+In this directory you should add your .txt files from task1 and a task2.txt file in which you should provide  
+1. A link to your repository for task2,  
+2. Who you partnered up with and
+3. Something fun or interesting about yourself (points will be deducted if I don't find what you wrote interesting)
+
+After doing this, you need to open a pull request so your changes can be added to this repository.  
+
 
