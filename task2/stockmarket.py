@@ -2,30 +2,17 @@ import streamlit as st
 import plotly.graph_objects as go
 import yfinance as yf
 from st_click_detector import click_detector
-import time
 
-# df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/finance-charts-apple.csv')
+# Ideas for improvement:
+# 1. Add more stock tickers to the list.
+# 2. Allow users to input a custom date range for the stock data.
+# 3. Allow users to select different types of charts (e.g., line chart, bar chart).
+# 4. Allow users to provide their own tickers, with error handling for invalid tickers.
+# 5. Show information about the stock (e.g., market cap, P/E ratio) alongside the chart.
+# 6. Add a download button for the stock data in CSV format. 
+# 7. Investment portfolio tracker: Allow users to input multiple stocks and track their performance over time.
+# 8. Add a news section to show the latest news related to the selected stock.
 
-# fig = go.Figure(data=[go.Candlestick(x=df['Date'],
-#                 open=df['AAPL.Open'],
-#                 high=df['AAPL.High'],
-#                 low=df['AAPL.Low'],
-#                 close=df['AAPL.Close'])])
-
-# st.plotly_chart(fig, use_container_width=True)
-# st.title('Stock Market Data')
-
-# msft = yf.Ticker("MSFT")
-# msft_history = msft.history(period="1y")
-# msft_history.reset_index(inplace=True)  # This moves the date from index to a column
-# fig = go.Figure(data=[go.Candlestick(x=msft_history['Date'],
-#                 open=msft_history['Open'],
-#                 high=msft_history['High'],
-#                 low=msft_history['Low'],
-#                 close=msft_history['Close'])])
-# st.plotly_chart(fig, use_container_width=True)
-# st.title('Stock Market Data')
-# print(1)
 
 def show_tickers():
     content = """
