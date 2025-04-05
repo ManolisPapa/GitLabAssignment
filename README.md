@@ -46,7 +46,7 @@ you create a new branch 'changes' from 'main' in order to commit the following:
 The boss doesn't like all of the changes and thinks they're too much, so you're tasked with picking 3 of them and placing them in the 'main' branch.
 There are two git commands for this, so pick whichever you prefer.
 
-To complete this task you should document your branch logs and (optionally) your command history 
+To complete this task you should document your branch logs and (optionally) your command history.  
 You can do this by running the following commands:  
     git log [branch_name] > branch_name-log.txt (do this for every branch after first doing git checkout branch_name)  
     doskey /history > history.txt (this returns all the commands you used that are in memory. You can remove any commands you think contain unimportant or sensitive information)  
