@@ -42,7 +42,7 @@ you create a new branch 'changes' from 'main' in order to commit the following:
 3. Change the rainbow gradient into a blue-green gradient.
 4. Make the eggs 20px wider.
 5. Make the eggs 10px shorter (height).
-6. Change the basket emoji into a candle emoji (&#x1f56f;).
+6. Change the basket emoji into a candle emoji (&#x1f56f;).  
 The boss doesn't like all of the changes and thinks they're too much, so you're tasked with picking 3 of them and placing them in the 'main' branch.
 There are two git commands for this, so pick whichever you prefer.
 
