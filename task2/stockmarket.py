@@ -11,7 +11,7 @@ from st_click_detector import click_detector
 # 5. Investment portfolio tracker: Allow users to input multiple stocks and return their portfolio's current worth. #H
 # 6. Add a news section to show the latest news related to the selected stock (you can use the news attribute of yfinance.Ticker). #H
 
-
+# Create the images as a href elements with tickers as IDs
 def show_tickers():
     content = """
         <a href='#' id='MSFT'><img height='60px' width='60px' src='https://banner2.cleanpng.com/20180609/jq/aa8dbj2or.webp'></a>
@@ -19,24 +19,21 @@ def show_tickers():
     """
     return content
 
+# Make the images clickable using st_click_detector
 def get_ticker():
     content = show_tickers()
     clicked = click_detector(content)
     return clicked
 
-def show_plot(fig):
-    # Display the candlestick chart in Streamlit
-    st.plotly_chart(fig, use_container_width=True)
-
+# Get the stock dataframe for the given ticker using yfinance
 def get_dataframe(ticker):
-    # Get the stock data for the given ticker
     stock_data = yf.Ticker(ticker)
     df = stock_data.history(period="1y")
     df.reset_index(inplace=True)  # This moves the date from index to a column
     return df
 
+# Create a candlestick chart using plotly
 def plot_candlestick(df, ticker):
-    # Create a candlestick chart using Plotly
     fig = go.Figure(data=[go.Candlestick(x=df['Date'],
                                          open=df['Open'],
                                          high=df['High'],
@@ -45,7 +42,14 @@ def plot_candlestick(df, ticker):
     fig.update_layout(title=f'{ticker} Stock Price', xaxis_title='Date', yaxis_title='Price (USD)')
     return fig
 
+# Show a plotly chart in Streamlit
+def show_plot(fig):
+    st.plotly_chart(fig, use_container_width=True)
+
+# Main Streamlit app
 ticker = get_ticker()
+
+# Every time something happens, Streamlit reruns the script so when an image is clicked, the script will rerun and the ticker will not be empty.
 if ticker != "":
     df = get_dataframe(ticker)
     fig = plot_candlestick(df, ticker)
