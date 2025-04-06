@@ -4,14 +4,12 @@ import yfinance as yf
 from st_click_detector import click_detector
 
 # Ideas for improvement:
-# 1. Add more stock tickers to the list.
-# 2. Allow users to input a custom date range for the stock data.
-# 3. Allow users to select different types of charts (e.g., line chart, bar chart).
-# 4. Allow users to provide their own tickers, with error handling for invalid tickers.
-# 5. Show information about the stock (e.g., market cap, P/E ratio) alongside the chart.
-# 6. Add a download button for the stock data in CSV format. 
-# 7. Investment portfolio tracker: Allow users to input multiple stocks and track their performance over time.
-# 8. Add a news section to show the latest news related to the selected stock.
+# 1. Add more stock tickers to the list.  #E
+# 2. Allow users to input a custom date range for the stock data. #E
+# 3. Allow users to provide their own tickers, with error handling for invalid tickers. #H
+# 4. Show information about the stock (e.g., market cap, P/E ratio) alongside the chart. #H
+# 5. Investment portfolio tracker: Allow users to input multiple stocks and return their portfolio's current worth. #H
+# 6. Add a news section to show the latest news related to the selected stock (you can use the news attribute of yfinance.Ticker). #H
 
 
 def show_tickers():
