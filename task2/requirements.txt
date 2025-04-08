@@ -2,3 +2,4 @@ streamlit
 plotly
 yfinance
 st_click_detector
+pandas
