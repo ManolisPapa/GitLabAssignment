@@ -1,12 +1,13 @@
 import streamlit as st
 import plotly.graph_objects as go
 import yfinance as yf
+import pandas as pd
 from st_click_detector import click_detector
 
 # Ideas for improvement:
 # 1. Add more stock tickers to the list.  #E
 # 2. Allow users to input a custom date range for the stock data. #E
-# 3. Allow users to provide their own tickers, with error handling for invalid tickers. #H
+# 3. Allow users to provide their own tickers, with error handling for tickers not in the S&P500. #H
 # 4. Show information about the stock (e.g., market cap, P/E ratio) alongside the chart. #H
 # 5. Investment portfolio tracker: Allow users to input multiple stocks and return their portfolio's current worth. #H
 # 6. Add a news section to show the latest news related to the selected stock (you can use the news attribute of yfinance.Ticker). #H
@@ -54,3 +55,4 @@ if ticker != "":
     df = get_dataframe(ticker)
     fig = plot_candlestick(df, ticker)
     show_plot(fig)
+
