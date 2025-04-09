@@ -29,7 +29,7 @@ Also, task2 is created in Python so you will need Python 3 in your computer and 
    - Your boss decided that the rainbow theme is not very nice and wants to change the keybinds for the 3rd Easter egg.
    - This is an important change, so do it on a different branch.
      - Create a branch named `thirdEasterEgg` and start making changes.
-     - The rainbow theme should be a top-to-bottom gradient without the line splits.
+     - The rainbow theme should be a left-to-right gradient without the line splits.
      - The keybind should be the cheat code for Mega Jump in GTA San Andreas (look it up).
      - Make two commits (one for each change), but **don’t merge yet**.
 
@@ -147,9 +147,10 @@ This one’s fairly simple.
    - A `task1.txt` that includes:
      1. a link to your Task 1 repository (Make sure you have invited me if your repository is private)
    - A `task2.txt` file that includes:
-     1. A link to your Task 2 repository
-     2. Who your partner was and which improvements each of you implemented
-     3. Something fun or interesting about yourself
+     1. A link to your Task 2 repository,
+     2. Who your partner was and which improvements each of you implemented,
+     3. How would you rate your Git knowledge before and after this tutorial?
+     4. Something fun or interesting about yourself
         > (Points will be deducted if I don't find what you wrote interesting 😄)
 
 3. Open a **pull request** so your changes can be added to this repository.
