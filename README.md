@@ -111,6 +111,7 @@ For this task, you'll work in pairs so find a friend and partner up.
 3. There are six ideas for improvement labeled:
 
    - `#E` for easy to implement
+   - `#M` for medium to implement
    - `#H` for hard to implement
 
 4. Divide the work evenly so **each person implements:**
