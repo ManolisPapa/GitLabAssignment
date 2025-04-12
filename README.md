@@ -146,7 +146,7 @@ This one’s fairly simple.
 2. In this directory, add:
 
    - A `task1.txt` that includes:
-     1. a link to your Task 1 repository (Make sure you have invited me if your repository is private)
+     1. A link to your Task 1 repository (Make sure you have invited me if your repository is private)
    - A `task2.txt` file that includes:
      1. A link to your Task 2 repository,
      2. Who your partner was and which improvements each of you implemented,
