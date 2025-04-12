@@ -1,0 +1,12 @@
+a. https://github.com/jaspass04/GitLabAssignment-Task2
+b. i had no partner :'(
+
+c. Implemented features:
+	#E Allow users to input custom date range
+	#Add a news section 
+	#H Investment portfolio tracker
+
+d.git rebasing is very important for our oss project so thank you
+
+e.your oss team name is very inspiring given all the assignments we have to deal with this semester. also as an interesting fact, i am doing my best to become a real coder, so i make sure every day nothing interesting happens in my life. here's a dad joke though in greek, probably better said orally: Γιατί το μόντεμ έχει ψυχολογικά; Γιατί ο πατέρας του το Έδερνετ.
+  
