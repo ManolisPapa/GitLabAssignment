@@ -1,0 +1,16 @@
+Repository: https://github.com/iwannaefraimia/git-lab-assignment-task2
+
+Partner: None (worked solo)
+
+Features I implemented:
+- #2 Custom date range selection (Easy)
+- #3 User-provided tickers with error handling for S&P 500 (Medium)
+- #4 Stock info (e.g., Market Cap, P/E ratio) (Medium)
+- #5 Portfolio Tracker (Hard)
+- #6 Latest News section using yfinance (Hard)
+
+Git knowledge before: 8.5/10  
+Git knowledge after: 9/10
+
+Something fun or interesting about me:
+I feel working alone works best for me hahaha
