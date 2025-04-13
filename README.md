@@ -81,8 +81,9 @@ Also, task2 is created in Python so you will need Python 3 in your computer and 
    - Now that you're done, you should push this repository to Github so others (me) can see what you're working on.
    - Create a remote repository in Github and copy it's URL. Please make it public so I don't have to go through all of the invites. 
    - Come back to your local repository and set up a remote repository with the URL above. 
-   - Now, to push your changes to the remote you're going to use git push --force [remote_name]. 
-   - After that make sure you add your branches to the remote repository by using git checkout [branch_name] and git push --set-upstream [remote_name]
+   - Now, to push your changes to the remote you're going to use `git push --force [remote_name]`.
+   - (In case you create a repository without a README.md you can use `git push --set-upstream origin main` to set your local main branch as the upstream main branch)
+   - After that make sure you add your branches to the remote repository by using `git checkout [branch_name]` and `git push --set-upstream [remote_name]`
      
 > You'll be graded based on the quality of your commits so keep them **frequent, short, and clear**.
 
