@@ -1,1 +1,10 @@
 https://github.com/lazarosY/git-lab-assignment-task2
+
+I did this solo, so I though I should only do 1 easy and two hard improvements:
+
+So I did the first (1) one and the 5 and 6.
+
+
+To be honest, I don't think it was that lacking before, but I definitely got a lot more comfortable with working with gitbash a lot more than with the GitHub website. So, big props! It was definitely helpful and I didn't get really frustrated at this assignment.
+
+Cool fact about me : I played the guitar for like 8 years.
