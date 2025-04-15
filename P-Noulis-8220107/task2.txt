@@ -1,0 +1,15 @@
+Task one link: https://github.com/Memepotat/git-lab-assignment-task2
+
+**Partner: Nikos Damalos (Memepotat)**	
+I implemented:
+- Improvement 2, Date Range
+- Improvement 3, Additional info
+- Improvement 6, News 
+
+
+**Git knoweldge**
+Before: 2/10
+Now 5.5/10 (only because I still don't remember everything and need to keep checking, otherwise would be higher)
+
+**FunFact**
+I have a racing sim at home
