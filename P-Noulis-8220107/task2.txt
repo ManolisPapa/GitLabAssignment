@@ -1,4 +1,4 @@
-Task one link: https://github.com/Memepotat/git-lab-assignment-task2
+Task two link: https://github.com/Memepotat/git-lab-assignment-task2
 
 **Partner: Nikos Damalos (Memepotat)**	
 I implemented:
