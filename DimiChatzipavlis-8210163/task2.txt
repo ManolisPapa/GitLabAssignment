@@ -1,0 +1,8 @@
+https://github.com/DimiChatzipavlis/git-lab-assignment-task2.git
+
+I worked on my own, so i did all the given tasks!
+
+I didn't have any issues with the tasks, and I did a very nice refresh
+of the git basics
+
+Fun fact? I have just started my intern atship at a company that uses git and I am enrolled in a udemy-course git mastery and I refrsh git basics twice in this easter week!
