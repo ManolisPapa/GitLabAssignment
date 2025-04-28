@@ -1,0 +1,14 @@
+
+Task 1 repository link: https://github.com/pelagiavlas/git-lab-assignment-task2
+
+Partner: Δεν συνεργάστηκα με κάποιον για την άσκηση, αλλά υλοποίησα:
+- Ένα εύκολο task (#E): Προσθήκη περισσότερων stock tickers.
+- Ένα μεσαίο task (#M): Εμφάνιση στοιχείων για τις μετοχές.
+- Ένα δύσκολο task (#H): Προσθήκη τμήματος ειδήσεων για την επιλεγμένη μετοχή.
+
+Git Knowledge:
+- Before: 5/10
+- After: 7.5/10
+
+Something interesting about me:
+- Μου πήρε περισσότερο χρόνο να σκεφτώ τι να γράψω για αυτό το σημείο, παρά για να ολοκληρώσω την άσκηση:)
