@@ -6,7 +6,7 @@ Partner: Fanis Orfanoudakis
 
 My implemented features:
 - #E: Custom date range selection using Streamlit sidebar.
-- #H: Added a moving average overlay to the candlestick chart.
+- #M: Show information about the stock
 - #H: Displayed latest news headlines for the selected stock using yfinance.Ticker().news.
 
 3. Git Knowledge Before and After:
