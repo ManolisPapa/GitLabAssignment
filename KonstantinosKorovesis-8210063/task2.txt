@@ -1,0 +1,16 @@
+a. 
+https://github.com/KonstantinosKorovesis/git-lab-assignment-task2
+
+b.
+I worked alone, so no partner.
+Features I implemented:
+1. Add more stock tickers to the list.  #E
+4. Show information about the stock (e.g., market cap, P/E ratio) alongside the chart. #M
+6. Add a news section to show the latest news related to the selected stock. #H
+
+c.
+Before: 7/10. I had a pretty basic idea of a few common git commands.
+After: 9/10. I understand how the most commonly used git commands work and feel comfortable using them.
+
+d.
+Not so fun fact: I've unfortunately spent more than 17 days (400+ hours) in total playing GTA V.
