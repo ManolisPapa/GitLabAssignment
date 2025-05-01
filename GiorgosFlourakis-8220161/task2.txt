@@ -1,0 +1,17 @@
+1. Link to me Task 2 repository:
+https://github.com/georgeflour/git-lab-assignment-task2
+
+2. Partner and Implementation Breakdown:
+Partner: Fanis Orfanoudakis
+
+My implemented features:
+- #E: Custom date range selection using Streamlit sidebar.
+- #M: Show information about the stock
+- #H: Displayed latest news headlines for the selected stock using yfinance.Ticker().news.
+
+3. Git Knowledge Before and After:
+Before: Basic – I was familiar with cloning, committing, and pushing.
+After: Intermediate – I now understand branching, squashing, cherry-picking, rebasing, and organizing commits for collaboration. 10/10
+
+4. Something fun or interesting about me:
+I once waved back at someone who wasn’t waving at me, so I committed to it and spent the next five minutes pretending to know them just to save face. We’re now accidentally friends.
