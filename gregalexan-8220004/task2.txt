@@ -1,0 +1,13 @@
+https://github.com/AnastasiaLag/git-lab-assignment-task2
+
+Partner: Anastasia Lagopanagiotopoulou (GitHub: AnastasiaLag)
+Ideas for Improvement
+Gregory: 2, 4, 6
+Anastasia: 1, 3, 5
+
+Git Knowledge
+Before: I thought I knew everything I needed to know about Git (well... I didn't)
+After: I still look up many commands. At least, I know good git practices and Prompt Engineering
+
+Something  fun:
+I am mentally unstable
