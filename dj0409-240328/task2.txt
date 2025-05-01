@@ -1,0 +1,20 @@
+Link to my Task 2 repository:
+https://github.com/fridaeriksenaess/git-lab-assignment-task2
+
+My partner was:  fridaeriksenaess
+
+Improvements we implemented: 1-6
+
+- I implemented:
+  - [1] Add more stock tickers
+  - [3] Allow users to enter custom tickers with error handling
+  - [5] Investment portfolio tracker showing total value
+
+Git knowledge before tutorial:
+Basic – I knew git clone, commit, and push, but didn’t use branches or GitHub much.
+
+Git knowledge after tutorial:
+Better – I can now use branches, resolve merge conflicts, squash commits and collaborate using GitHub.
+
+Something fun or interesting about me:
+I do parkour and work sometimes as a stunt woman. 
