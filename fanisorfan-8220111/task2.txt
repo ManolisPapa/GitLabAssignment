@@ -1,0 +1,9 @@
+Task 2 Repository:
+https://github.com/georgeflour/git-lab-assignment-task2.git
+Partner:
+georgeflour
+Git knowledge before tutorial:
+5/10 
+
+Git knowledge after tutorial:
+8/10
