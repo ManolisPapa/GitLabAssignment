@@ -1,0 +1,19 @@
+[Task2](https://github.com/GeoTsak314/SEIP_Lab3_Git/tree/main/Task2)
+
+Partner: 
+Since most of the parts of my team are already in AUEB Practice mode... I did these tasks solo! 
+
+Improvements:
+- #E: Added more stock tickers 
+- #H: Portfolio tracker
+- #H: News section (and a fix to not throw empty news feeds)
+
+
+Git knowledge:
+Before tutorial = around 8 (to be honest, I mostly use Github Desktop)
+After tutorial = around 9 (I show some extra commands, but still need to check the full github functionality)
+
+
+Fun fact:
+I always try to use interesting (mostly funny) images at the end of my AUEB presentations! 
+Spin for Spinelis! 
