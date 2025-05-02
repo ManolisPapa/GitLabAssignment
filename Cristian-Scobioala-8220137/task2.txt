@@ -1,0 +1,21 @@
+https://github.com/DionisiaK4/git-lab-assignment-task2
+
+I collaborated with Dionisia Koronellou (AM: 8220066, Github: DionisiaK4)
+
+Me, Cristian did the tasks mentioned below:
+- Allowed users to input a custom date range for stock data
+- Showed info about the stock alongside the chart
+- Allowed users to input various stocks and returned their portfolio's current worth
+
+My partner, Dionisia did the tasks, mentioned below:
+- Added more stock tickers to the list
+- Allowed users to provide their own tickers, with error handling for tickers not in the S&P 500
+- Added a news section to show the latest news related to the selected stock
+
+Being honest about my git knowledge:
+Despite the fact that i have great experience collaborating on git for assignments, side projects or my startup, i did not know how to resolve conflicts. I think i used to use 50% of the git's capabilities. Now, due to the wonderful assignment of our esteemed Git Expert/Professor/Senior SWE Manolis PAP, i could say with confidence that i could use most of git's capabilities. Thank you dear Manolis. Appreciate it ;).
+
+Interesting fact about me:
+Used to be a kick boxing champion, retired, became fat. Now i m comin for ya heads in the startup industry. Be careful.
+
+Also, i am a techno king and house master.
