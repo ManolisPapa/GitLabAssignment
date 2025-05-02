@@ -1,0 +1,8 @@
+1) https://github.com/MariosLiapis/git-lab-assignment-task2.git
+
+2) I did this task solo
+
+3) Before this assignment my Git knowledge was on a basic level, although challenging it has improved quite a bit
+
+4) Note: Features were developed in separate branches initially. Due to a rebase/merge mistake, commits were copied between branches and Git treated them as already merged. All work is reflected in main, but the branches have no unique commits.
+ 
