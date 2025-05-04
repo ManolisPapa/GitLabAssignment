@@ -1,0 +1,6 @@
+https://github.com/Konstantinos-10/git-lab-assignment-task2
+
+My partner was Nikos Laspias.
+I implemented task 1,3,5 and he implemented 2,4,6.
+My Git knowledge was like 3/10 and now I can confidently say that it's 7/10(still struggling with rebase and squashing).
+I'm Cypriot so we have something in common. We are both not from Greece.
