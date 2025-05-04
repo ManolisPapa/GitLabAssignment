@@ -1,0 +1,22 @@
+Task 2 repository: https://github.com/Memepotat/git-lab-assignment-task2
+
+Partner: Philip  
+Improvements:
+
+- Nikos:
+  • Idea 1 (#E): Loaded and listed all S&P500 tickers from the CSV
+  • Idea 3 (#M): User can type a ticker manually with error handling
+  • Idea 5 (#H): Full portfolio tracker (manual input, live price fetch, table + pie chart)
+
+- Philip:
+  • Idea 2 (#E): Custom date range input
+  • Idea 4 (#M): Displayed detailed stock info (e.g., P/E, sector)
+  • Idea 6 (#H): Added news section for selected stock
+
+Git Knowledge:
+- Before: 4/10 — I understood commits and pushing, but barely used branches.
+- After: 9/10 — Now I squash, branch, rebase, write good messages, and I’m more confident with workflows.
+- Also god, in task 1 I had aborted 4 times and everything vanished(deleted), man that was an adventure.
+
+Fun fact:
+I love to cook food, it fills my day and makes me happy, also I stress manage by looking up for crazy offers or discounts.
