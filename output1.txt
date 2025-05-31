@@ -16,6 +16,7 @@ https://github.com/gregalexan/gitlabassignmenttask1
 https://github.com/gsklavounakos/git_lab_assignment
 https://github.com/iwannaefraimia/Git-Assignment
 https://github.com/jaspass04/GitLabAssignment
+https://github.com/katerinatsikoura/vcs_assignment
 https://github.com/Konstantinos-10/VCS_Task1_Kotsios
 https://github.com/KonstantinosKorovesis/git-lab-assignment-task1
 https://github.com/kristavlastou/WorkingwithVersionControlSystems.git
