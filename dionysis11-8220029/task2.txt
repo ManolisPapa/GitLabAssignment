@@ -1,0 +1,9 @@
+https://github.com/dionysis11/git-lab-assignment-task2
+
+this is private but I added you as a collaborator
+
+I did it solo, but for the purpose of working with branches I seperated easy, medium, and hard in a corresponding branch
+
+helped with the logs generating, thanks!
+
+exams start in almost a week and I haven't managed to study a signle note page 😆
